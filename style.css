@@ -1,0 +1,24 @@
+body{
+    background-color:#6acc95;
+    font-family:Georgia;
+    
+}
+
+#nav{
+    background-color:#7da0ff;
+    
+}
+
+p{
+     font-family:Georgia;
+
+}
+
+a{
+    border-style:solid ;
+}
+
+h1{
+    font-family:Georgia;
+    text-align: center;
+}
